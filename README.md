@@ -36,7 +36,7 @@ This project analyzes **5,000 food delivery orders** to turn raw order data into
 
 The Power BI dashboard summarizes order volume, cancellations, delivery delays, and delivery performance.
 
-![Food Delivery Dashboard Screenshot](powerbi/screenshots/food_delivery_dashboard.png)
+View the [Power BI report](Food_Delivery_Analytics.pbix) 
 
 ## Key Business Insights
 
